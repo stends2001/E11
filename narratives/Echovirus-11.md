@@ -5,4 +5,4 @@ dataset: "https://www.nextstrain.org/community/stends2001/Echovirus-11/VP1"
 abstract: "something."
 ---
 
-# [Start](https://www.nextstrain.org/community/stends2001/Echovirus-11)
+# [Start](https://www.nextstrain.org/community/stends2001/Echovirus-11/VP1)
