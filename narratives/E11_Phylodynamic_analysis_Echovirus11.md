@@ -17,7 +17,7 @@ This tree shows the division of sequences into sub-genotypes based on the VP1 se
 # [Echovirus 11 Lineages](https://nextstrain.org/community/stends2001/E11/PG/pVP1?branchLabel=Genotype_VP1&c=Subsubgenotype_VP1&showBranchLabels=all)
 This tree shows the division of sequences into lineages based on the VP1 sequences.
 
-# [Echvovirus 11 Lineage: D5.12](https://nextstrain.org/community/stends2001/E11/PG/pVP1?c=Country)
+# [Echvovirus 11 Lineage: D5.12](https://nextstrain.org/community/stends2001/E11/PG/pVP1?c=Country&label=Subsubgenotype_VP1:D5.12)
 Within lineage D5.12, a newly emerging clade can be observed, with 24 out of the 30 sequences representing _study sequences_, all of which isolated in Europe.
 
 # [Echovirus 11 RFs](https://nextstrain.org/community/stends2001/E11/CG/3DPol)
