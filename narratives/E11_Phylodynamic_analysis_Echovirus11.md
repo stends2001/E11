@@ -5,13 +5,6 @@ date: "June 2024"
 dataset: "https://nextstrain.org/community/stends2001/E11/PG/pVP1?branchLabel=Genotype_VP1&showBranchLabels=all"
 abstract: "
 Thank you for having a look at the supplementary results of the phylodynamic analysis. This Nextstrain *narrative* covers the same results, but allows the visualisation of a bit more nuances. Moreover, Auspice allows any viewer to explore the data. In case of any questions, feel free to contact me at _stends2001@gmail.com_. I will be covering the following topics in general, but I have uploaded the data with a few more variables that allows you to explore the analysis.
-
-- Echovirus 11 phylodynamics - VP1-region
-- Echovirus 11 phylodynamics - 3DPol-region
-- Echovirus 11 recombination: VP1- and 3DPol-regions
-- EV-B species - VP1-region
-- EV-B species - 3DPol-region
-- EV-B species - VP1- and 3DPol-regions
 "
 ---
 
