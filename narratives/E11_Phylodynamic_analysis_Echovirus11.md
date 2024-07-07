@@ -11,7 +11,7 @@ Thank you for having a look at the supplementary results of the phylodynamic ana
 # [Echovirus 11 Genotypes](https://nextstrain.org/community/stends2001/E11/PG/pVP1?branchLabel=Genotype_VP1&showBranchLabels=all)
 This tree shows the division of sequences into genotypes based on the VP1 sequences.
 
-# [Echovirus 11 Sub-enotypes](https://nextstrain.org/community/stends2001/E11/PG/pVP1?branchLabel=Genotype_VP1&c=Subgenotype_VP1&showBranchLabels=all)
+# [Echovirus 11 Sub-genotypes](https://nextstrain.org/community/stends2001/E11/PG/pVP1?branchLabel=Genotype_VP1&c=Subgenotype_VP1&showBranchLabels=all)
 This tree shows the division of sequences into sub-genotypes based on the VP1 sequences.
 
 # [Echovirus 11 Lineages](https://nextstrain.org/community/stends2001/E11/PG/pVP1?branchLabel=Genotype_VP1&c=Subsubgenotype_VP1&showBranchLabels=all)
